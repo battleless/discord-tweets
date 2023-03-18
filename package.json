@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "twitter-api-v2": "^1.14.2"
+  }
+}
